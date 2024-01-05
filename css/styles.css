@@ -598,8 +598,9 @@ progress {
 }
 
 .img-fluid {
-  max-width: 100%;
+  max-width: 20%;
   height: auto;
+  padding-right: 5%;
 }
 
 .img-thumbnail {
@@ -623,6 +624,10 @@ progress {
 .figure-caption {
   font-size: 0.875em;
   color: #6c757d;
+}
+
+.contact_text{
+  font-size: 16px;
 }
 
 .container,
